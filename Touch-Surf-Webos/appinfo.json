@@ -1,0 +1,10 @@
+{
+   "id": "com.petzapps.touchsurf",
+   "version": "2.3.0",
+   "vendor": "PetzApps",
+   "type": "web",
+   "main": "index.html",
+   "title": "Touch Surf",
+   "icon": "icon.png",
+   "uiRevision":2
+}

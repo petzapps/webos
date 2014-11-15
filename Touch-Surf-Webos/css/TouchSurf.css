@@ -1,0 +1,50 @@
+.example-submenu .enyo-menuitem-icon {
+	padding: 0 5px 0 0; 
+	margin: -3px;
+}
+
+.enyo-text-error.warning-icon{
+	padding-left: 3em;
+}
+
+.warning-icon {
+	background: url(../images/warning.png) 0 0 no-repeat;
+	height: 25px;
+}
+/*  Don't use padding here, it breaks the webview */
+.webview-body {
+	font-size: 16px;
+	width: 100%;
+}
+
+
+.secure-lock {
+	background: url(../images/secure-lock.png) center center no-repeat;
+	width: 32px;
+	height: 32px;
+	position: relative;
+	left: -3px;
+}
+
+.addressbar-button {
+	width: 32px;
+	height: 32px;
+	position: relative;
+	right: -6px;
+}
+
+.refresh-button {
+	background: url(../images/menu-icon-refresh.png) 0 1px no-repeat;
+}
+
+.refresh-button.enyo-button-down {
+	background-position: 0 -31px;
+}
+
+.stop-button {
+	background: url(../images/menu-icon-stop.png) 0 1px no-repeat;
+}
+
+.stop-button.enyo-button-down {
+	background-position: 0 -31px;
+}
