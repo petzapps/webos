@@ -1,0 +1,11 @@
+{
+   "id": "com.petzapps.mathpro",
+   "version": "1.0.0",
+   "vendor": "PetzApps",
+   "vendorurl": "http://petzapps.blogspot.com",
+   "type": "web",
+   "main": "index.html",
+   "title": "Math Pro",
+   "icon": "icon.png",
+   "uiRevision":2
+}
