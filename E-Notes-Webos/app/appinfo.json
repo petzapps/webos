@@ -1,0 +1,11 @@
+{
+   "id": "com.petzapps.enotesenyofree",
+   "version": "1.1.0",
+   "vendor": "PetzApps",
+   "vendorurl": "http://petzapps.blogspot.com",
+   "type": "web",
+   "main": "index.html",
+   "title": "E Notes (free)",
+   "icon": "icon.png",
+   "uiRevision":2
+}

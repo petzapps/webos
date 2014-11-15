@@ -1,0 +1,17 @@
+{
+"id": "com.petzapps.enotesenyofree.service",
+"description": "FileIO Service",
+"services": [
+  {
+    "name": "com.petzapps.enotesenyofree.service",
+    "description": "FileIO Service",
+    "commands": [
+    {
+      "name": "writefile",
+      "assistant": "WriteFileAssistant",
+      "public": true,
+	  "subscribe": true
+    }]
+  }]
+}
+

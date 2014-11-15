@@ -1,0 +1,1 @@
+function NotebookTagCounts(guid, count,type) {	this.guid = guid;	this.count = count;	this.type = type;}

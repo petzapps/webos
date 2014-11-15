@@ -1,0 +1,129 @@
+.warning-icon {
+	background: url(../images/warning.png) 0 0 no-repeat;
+	height: 25px;
+}
+
+.enyo-text-error.warning-icon{
+	padding-left: 3em;
+}
+
+.compose-header-bar {
+	margin:0 -2px;
+	-webkit-border-image: url('../images/header_chrome_tile.png') 0 6 repeat;
+	border-width: 0 6px;
+	position: relative;
+	margin-bottom:-6px;
+	z-index: 1;
+}
+
+.attach-list-selector {
+margin: 0px;
+padding: 0px;
+font-size: 50px;
+color:white;
+font-weight: normal;
+}
+
+.compose-header {
+	background: transparent url('../images/paper_page_texture.png') repeat;
+}
+
+.enyo-custom-button.other-button {
+	margin:8px 8px 8px 14px;
+	width:34px;
+	height:34px;
+	background:transparent url('../images/more-menu-icon.png') 0px 0px no-repeat;
+}
+
+.enyo-custom-button.other-button.enyo-button-down  {
+	background-position: 0px -32px;
+}
+
+.compose-scroller .enyo-scrollfades-top {
+	height: 26px;
+	background-size: 100% 26px;
+	background-position: center bottom;
+}
+
+.compose-scroller .enyo-scrollfades-bottom {
+	height: 26px;
+	background-size: 100% 26px;
+	background-position: center top;
+}
+
+.dotted-bottom {
+	background:transparent url('../images/dottedline_separator.png') bottom repeat-x;
+	border:1px transparent;
+}
+
+.compose-to-text {
+	color: #1e5a90;
+	text-transform: capitalize;
+	font-size: 16px;
+		display: -webkit-box;
+			-webkit-box-align: center;
+}
+
+.header-save-icon {
+	margin: -6px 2px 0px -6px;
+	width:32px;
+	height:32px;
+	background:transparent url('../images/page_add.png') top left;
+}
+
+.header-addnote-icon {
+	margin: -6px 2px 0px -6px;
+	width:32px;
+	height:32px;
+	background:transparent url('../images/page_add.png') top left;
+}
+
+.header-emailnote-icon {
+	margin: -6px 2px 0px -6px;
+	width:32px;
+	height:32px;
+	background:transparent url('../images/page_attach.png') top left;
+}
+
+.header-editnote-icon {
+	margin: -6px 2px 0px -6px;
+	width:32px;
+	height:32px;
+	background:transparent url('../images/page_edit.png') top left;
+}
+
+.header-cancel-icon {
+	margin: -6px 2px 0px -6px;
+	width:32px;
+	height:32px;
+	background:transparent url('../images/Cancel.png') top left;
+}
+
+.enyo-custom-button.attachment-button {
+	margin:8px 8px 8px 14px;
+	width:34px;
+	height:34px;
+	background:transparent url(../images/attachments_button.png) 0px 0px no-repeat;
+}
+
+.enyo-custom-button.attachment-button.enyo-button-down  {
+	background-position: 0px -33px;
+}
+
+.desktop-background {
+  min-height:400px;
+  background-position: center top;
+}
+
+.subject-box .enyo-input-input {
+	font-size:16px;
+	line-height:30px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+.encr-button {
+  padding:5px 5px 5px 5px;
+  margin:0 1px 0 0;
+  /*background-color:#88cc70;*/
+}
